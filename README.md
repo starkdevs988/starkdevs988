@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...technology, particularly in cloud computing, DevOps, and automation.
 - 🌱 I’m currently learning ...the cloud, focusing on AWS and its various services like EC2, S3, and Lambda.
 - 💞️ I’m looking to collaborate on ...open-source projects, cloud infrastructure, and automation tools. I'm always excited to contribute to projects that push the boundaries of what's possible with technology.
-- 📫 How to reach me ...connect with me on LinkedIn https://www.linkedin.com/in/starky-paulino-6240a4169/
+- 📫 How to reach me ...You can reach me via email at starkycloudengineer@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/starky-paulino-6240a4169/
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...When I'm not coding, you can find me exploring new tech gadgets or looking at arts, movies, or exploring!
 
